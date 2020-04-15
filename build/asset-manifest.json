@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/1653020/react_gomoku/static/css/main.74577df0.chunk.css",
-    "main.js": "/1653020/react_gomoku/static/js/main.794b32c3.chunk.js",
-    "main.js.map": "/1653020/react_gomoku/static/js/main.794b32c3.chunk.js.map",
-    "runtime-main.js": "/1653020/react_gomoku/static/js/runtime-main.b0409cef.js",
-    "runtime-main.js.map": "/1653020/react_gomoku/static/js/runtime-main.b0409cef.js.map",
-    "static/js/2.74fc4a30.chunk.js": "/1653020/react_gomoku/static/js/2.74fc4a30.chunk.js",
-    "static/js/2.74fc4a30.chunk.js.map": "/1653020/react_gomoku/static/js/2.74fc4a30.chunk.js.map",
-    "index.html": "/1653020/react_gomoku/index.html",
-    "precache-manifest.75c1b3d0544a405fd7da3653d7a49e69.js": "/1653020/react_gomoku/precache-manifest.75c1b3d0544a405fd7da3653d7a49e69.js",
-    "service-worker.js": "/1653020/react_gomoku/service-worker.js",
-    "static/css/main.74577df0.chunk.css.map": "/1653020/react_gomoku/static/css/main.74577df0.chunk.css.map",
-    "static/js/2.74fc4a30.chunk.js.LICENSE.txt": "/1653020/react_gomoku/static/js/2.74fc4a30.chunk.js.LICENSE.txt"
+    "main.css": "/1653020.github.io/react_gomoku/static/css/main.74577df0.chunk.css",
+    "main.js": "/1653020.github.io/react_gomoku/static/js/main.794b32c3.chunk.js",
+    "main.js.map": "/1653020.github.io/react_gomoku/static/js/main.794b32c3.chunk.js.map",
+    "runtime-main.js": "/1653020.github.io/react_gomoku/static/js/runtime-main.b9bf44a0.js",
+    "runtime-main.js.map": "/1653020.github.io/react_gomoku/static/js/runtime-main.b9bf44a0.js.map",
+    "static/js/2.74fc4a30.chunk.js": "/1653020.github.io/react_gomoku/static/js/2.74fc4a30.chunk.js",
+    "static/js/2.74fc4a30.chunk.js.map": "/1653020.github.io/react_gomoku/static/js/2.74fc4a30.chunk.js.map",
+    "index.html": "/1653020.github.io/react_gomoku/index.html",
+    "precache-manifest.e6e75e998cfb3ac76e303c4a7522b5a3.js": "/1653020.github.io/react_gomoku/precache-manifest.e6e75e998cfb3ac76e303c4a7522b5a3.js",
+    "service-worker.js": "/1653020.github.io/react_gomoku/service-worker.js",
+    "static/css/main.74577df0.chunk.css.map": "/1653020.github.io/react_gomoku/static/css/main.74577df0.chunk.css.map",
+    "static/js/2.74fc4a30.chunk.js.LICENSE.txt": "/1653020.github.io/react_gomoku/static/js/2.74fc4a30.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.b0409cef.js",
+    "static/js/runtime-main.b9bf44a0.js",
     "static/js/2.74fc4a30.chunk.js",
     "static/css/main.74577df0.chunk.css",
     "static/js/main.794b32c3.chunk.js"
