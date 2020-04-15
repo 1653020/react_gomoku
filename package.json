@@ -1,6 +1,6 @@
 {
     "homepage": "https://github.com/1653020/react_gomoku",
-    "name": "react_gomoku",
+    "name": "my_app",
     "version": "0.1.0",
     "private": true,
     "dependencies": {
@@ -9,7 +9,7 @@
         "@testing-library/user-event": "^7.1.2",
         "react": "^16.13.1",
         "react-dom": "^16.13.1",
-        "react-scripts": "3.4.1"
+        "react-scripts": "^3.4.1"
     },
     "scripts": {
         "predeploy": "npm run build",
